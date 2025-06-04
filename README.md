@@ -14,6 +14,7 @@ This project is a simple terminal-based guessing game built with Python. It was 
 If the user doesn’t guess it within 10 attempts, the program ends and reveals the correct number.
 
 ## Features
+
 - `while` loop for repeated input
 - Input validation using `try`/`except`
 - Tracks and limits the number of attempts
